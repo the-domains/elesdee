@@ -1,7 +1,7 @@
 name: ELESDEE
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.11723
+typography_spectrum: 0.10278
 title: null
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fdfbc8'
-    - '#1c242f'
-    - '#b1a374'
-    - '#6e6137'
-    - '#927e4c'
+    - '#c5d8e9'
+    - '#442218'
+    - '#76503b'
+    - '#e1a970'
+    - '#d66c3a'
   brandStrength: 0.8125
   lightness: 0.41954306117258966
   saturation: 0.5317809502594173
