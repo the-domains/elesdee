@@ -1,0 +1,28 @@
+name: ELESDEE
+favicon: null
+layout_spectrum: 0.26991322357207537
+typography_spectrum: 0.16538996971212327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9681724074762315
+  lightness: 0.41954306117258966
+  saturation: 0.5317809502594173
+  rhythmicContrast: 0.12824387475848198
+purpose: []
