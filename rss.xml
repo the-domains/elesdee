@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ELESDEE]]></title>
+        <description><![CDATA[ELESDEE]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Feb 2016 04:20:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Events Calendar | Downtown Boulder, CO]]></title>
+            <description><![CDATA[<article><h1>Events Calendar | Downtown Boulder, CO</h1><p>Search the Downtown Boulder calendar for event listings including concerts, festivals, in-store special events and more happening year round.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85680400e867d88fdb7c3e9168689fe4d26372bc.png"></article>]]></description>
+            <link>http://www.boulderdowntown.com/events</link>
+            <guid isPermaLink="false">e09c0b4d-b9a7-4d09-a600-bfa391d9aeb7</guid>
+            <pubDate>Thu, 11 Feb 2016 04:17:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
