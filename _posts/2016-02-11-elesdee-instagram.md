@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:f6cc8e61-2b47-4060-bba2-71cef4fbb3db'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-02-18T05:23:29.003Z'
+dateModified: '2016-02-18T05:23:26.104Z'
 author: []
-datePublished: '2016-02-11T04:33:33.566Z'
-publisher:
-  domain: ''
-  name: ''
 title: ELESDEE Instagram
-dateModified: '2016-02-11T04:32:39.073Z'
 sourcePath: _posts/2016-02-11-elesdee-instagram.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: elesdee-instagram/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
