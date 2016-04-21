@@ -1,29 +1,41 @@
-name: ELESDEE
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.10278
 title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.764232
+  brandStrength: 1
+  lightness: 0.6256713
   brandColors:
     - '#8db5f0'
     - '#0d1015'
     - '#384b1d'
     - '#d0e0ed'
     - '#8ca34b'
-  brandStrength: 0.5
-  lightness: 0.41954306117258966
-  saturation: 0.5317809502594173
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.4172932
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: ELESDEE
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.1519871
+layout_spectrum: 1
